@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained Models
+models/*.pkl
+
+# Database Dumps
+*.sql
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
